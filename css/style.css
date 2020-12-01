@@ -16,3 +16,9 @@
   html{
     scroll-behavior: smooth;
   }
+
+  .borderland{
+    border-style:solid;
+    border-width: 3px;
+    border-color: black;
+  }
